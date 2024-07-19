@@ -5,6 +5,7 @@ import { GlobalStyle } from './GlobalStyle';
 function App() {
   return (
     <>
+    
       <GlobalStyle />
       <Nav />
       <Main></Main>
